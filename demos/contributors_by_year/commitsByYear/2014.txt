@@ -1,0 +1,30 @@
+   340	Jeff King
+   237	Junio C Hamano
+   141	Nguyễn Thái Ngọc Duy
+   138	Michael Haggerty
+   101	René Scharfe
+    85	Elia Pinto
+    70	Ronnie Sahlberg
+    64	Karsten Blees
+    34	Christian Couder
+    31	David Aguilar
+    31	Jonathan Nieder
+    31	Tanay Abhra
+    30	Kirill Smelkov
+    27	Felipe Contreras
+    25	Jens Lehmann
+    25	Stefan Beller
+    20	Jiang Xin
+    20	Johannes Sixt
+    19	Ralf Thielow
+    18	brian m. carlson
+    17	Brian Gesiak
+    17	John Keeping
+    16	Eric Wong
+    16	Johannes Schindelin
+    15	Dmitry S. Dolzhenko
+    15	Michael J Gruber
+    14	Max Kirillov
+    14	Torsten Bögershausen
+    13	Alexander Shopov
+    13	Matthieu Moy

@@ -1,0 +1,30 @@
+   505	Nguyễn Thái Ngọc Duy
+   254	Jeff King
+   247	Stefan Beller
+   197	brian m. carlson
+   191	Johannes Schindelin
+   184	Elijah Newren
+   164	Derrick Stolee
+   158	Ævar Arnfjörð Bjarmason
+   134	Brandon Williams
+   121	Junio C Hamano
+   118	SZEDER Gábor
+    93	Eric Sunshine
+    57	Jonathan Tan
+    52	Martin Ågren
+    47	Pratik Karki
+    40	Phillip Wood
+    40	René Scharfe
+    37	Thomas Gummerer
+    33	Ben Peart
+    30	Jonathan Nieder
+    26	Alban Gruin
+    23	Christian Couder
+    22	Olga Telezhnaya
+    22	Ramsay Jones
+    21	Matthew DeVore
+    18	Jiang Xin
+    18	Taylor Blau
+    17	Antonio Ospite
+    16	Luke Diamand
+    15	Andreas Heiduk

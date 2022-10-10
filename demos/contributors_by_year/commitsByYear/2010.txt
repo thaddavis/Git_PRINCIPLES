@@ -1,0 +1,30 @@
+   331	Jonathan Nieder
+   321	Junio C Hamano
+   121	Ævar Arnfjörð Bjarmason
+   103	Nguyễn Thái Ngọc Duy
+    89	Jeff King
+    74	Michael J Gruber
+    72	Elijah Newren
+    68	Tay Ray Chuan
+    65	Thomas Rast
+    64	Johan Herland
+    57	Brandon Casey
+    46	Matthieu Moy
+    45	Jens Lehmann
+    43	Christian Couder
+    43	Johannes Sixt
+    41	Jakub Narębski
+    35	René Scharfe
+    32	Erik Faye-Lund
+    32	Shawn O. Pearce
+    29	Stephen Boyd
+    28	Pat Thoyts
+    27	Ramkumar Ramachandra
+    26	Giuseppe Bilotta
+    24	Michael Haggerty
+    23	Clemens Buchacher
+    23	Nicolas Pitre
+    23	Ramsay Jones
+    19	Ilari Liusvaara
+    18	Gary V. Vaughan
+    17	Jon Seymour

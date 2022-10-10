@@ -1,0 +1,30 @@
+   384	Junio C Hamano
+   283	Felipe Contreras
+   243	Jeff King
+   186	Nguyễn Thái Ngọc Duy
+   118	Michael Haggerty
+   101	John Keeping
+   101	Ramkumar Ramachandra
+    75	Thomas Rast
+    69	Eric Sunshine
+    52	René Scharfe
+    48	Jonathan Nieder
+    47	Matthieu Moy
+    45	Jiang Xin
+    44	Brandon Casey
+    42	Stefan Beller
+    39	David Aguilar
+    37	Pete Wyckoff
+    36	Karsten Blees
+    36	Ramsay Jones
+    32	Célestin Matte
+    30	Torsten Bögershausen
+    29	Antoine Pelisse
+    29	Johannes Sixt
+    27	Martin von Zweigbergk
+    27	Ralf Thielow
+    26	Christian Couder
+    25	Kevin Bracey
+    22	SZEDER Gábor
+    21	Adam Spiers
+    21	W. Trevor King

@@ -1,0 +1,30 @@
+   386	Jeff King
+   265	Junio C Hamano
+   193	Johannes Schindelin
+   181	Nguyễn Thái Ngọc Duy
+   120	Vasco Almeida
+   108	Christian Couder
+   108	Stefan Beller
+   105	Michael Haggerty
+    73	René Scharfe
+    60	Elia Pinto
+    48	Lars Schneider
+    46	Eric Wong
+    38	brian m. carlson
+    34	Matthieu Moy
+    27	Brandon Williams
+    27	David Turner
+    26	Johannes Sixt
+    22	David Aguilar
+    22	Jonathan Tan
+    20	Jacob Keller
+    20	Ralf Thielow
+    20	Torsten Bögershausen
+    19	Jiang Xin
+    18	Patrick Steinhardt
+    17	SZEDER Gábor
+    16	Thomas Gummerer
+    14	Michael J Gruber
+    14	Philip Oakley
+    13	Alex Henrie
+    13	Eric Sunshine

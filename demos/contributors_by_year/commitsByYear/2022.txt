@@ -1,0 +1,30 @@
+   397	Ævar Arnfjörð Bjarmason
+   136	Junio C Hamano
+   126	Derrick Stolee
+    97	Johannes Schindelin
+    86	Elijah Newren
+    76	Victoria Dye
+    66	Jeff King
+    60	Jeff Hostetler
+    59	Glen Choo
+    56	Taylor Blau
+    49	René Scharfe
+    35	Phillip Wood
+    34	SZEDER Gábor
+    28	Han-Wen Nienhuys
+    26	Eric Sunshine
+    26	Joel Holdsworth
+    26	Shaoxuan Yuan
+    25	Patrick Steinhardt
+    23	Jean-Noël Avila
+    22	Neeraj Singh
+    15	John Cai
+    15	Tao Klerks
+    14	Carlo Marcelo Arenas Belón
+    14	Emily Shaffer
+    14	Teng Long
+    12	Abhradeep Chakraborty
+    12	Philippe Blain
+    11	Alex Henrie
+    11	Fangyi Zhou
+    11	Jiang Xin

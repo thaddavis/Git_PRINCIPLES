@@ -1,0 +1,30 @@
+   405	Jeff King
+   235	Junio C Hamano
+   217	Brandon Williams
+   185	René Scharfe
+   169	Michael Haggerty
+   161	Stefan Beller
+   157	brian m. carlson
+   155	Johannes Schindelin
+   122	Ævar Arnfjörð Bjarmason
+    84	Jonathan Tan
+    83	Nguyễn Thái Ngọc Duy
+    68	SZEDER Gábor
+    58	Christian Couder
+    55	Martin Ågren
+    38	Jeff Hostetler
+    36	Kaartic Sivaraam
+    31	Lars Schneider
+    29	Jeff Smith
+    29	Phillip Wood
+    26	Ben Peart
+    25	Thomas Gummerer
+    24	Jonathan Nieder
+    20	Karthik Nayak
+    18	Ramsay Jones
+    17	Michael J Gruber
+    16	Richard Hansen
+    15	Andreas Heiduk
+    15	Cornelius Weig
+    15	Jiang Xin
+    14	Kyle Meyer

@@ -1,0 +1,30 @@
+   606	Ævar Arnfjörð Bjarmason
+   201	Elijah Newren
+   196	Derrick Stolee
+   196	Jeff King
+   136	Taylor Blau
+   135	Junio C Hamano
+    96	Johannes Schindelin
+    92	Han-Wen Nienhuys
+    62	René Scharfe
+    49	Jonathan Tan
+    47	Phillip Wood
+    46	Matheus Tavares
+    46	Patrick Steinhardt
+    41	Andrzej Hunt
+    41	Felipe Contreras
+    40	Eric Sunshine
+    33	Jeff Hostetler
+    31	Carlo Marcelo Arenas Belón
+    30	Jiang Xin
+    30	Luke Shumaker
+    28	Denton Liu
+    25	Fabian Stelzer
+    24	Bagas Sanjaya
+    24	Martin Ågren
+    24	brian m. carlson
+    23	Charvi Mendiratta
+    23	ZheNing Hu
+    20	Jean-Noël Avila
+    18	Atharva Raykar
+    18	Daniel Santos

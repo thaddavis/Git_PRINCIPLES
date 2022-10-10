@@ -1,0 +1,30 @@
+   302	Johannes Schindelin
+   271	Jeff King
+   213	Nguyễn Thái Ngọc Duy
+   204	Denton Liu
+   125	SZEDER Gábor
+   115	Elijah Newren
+   113	brian m. carlson
+   104	Derrick Stolee
+    98	Ævar Arnfjörð Bjarmason
+    86	Junio C Hamano
+    76	René Scharfe
+    60	Phillip Wood
+    51	Jeff Hostetler
+    51	Jonathan Tan
+    40	Thomas Gummerer
+    36	Martin Ågren
+    30	Christian Couder
+    28	Eric Wong
+    24	Alban Gruin
+    23	Heba Waly
+    20	Josh Steadmon
+    19	Jiang Xin
+    19	Philip Oakley
+    18	Alexandr Miloslavskiy
+    17	Matthew DeVore
+    17	Paul-Sebastian Ungureanu
+    16	Jean-Noël Avila
+    14	Carlo Marcelo Arenas Belón
+    14	Rohit Ashiwal
+    14	Đoàn Trần Công Danh

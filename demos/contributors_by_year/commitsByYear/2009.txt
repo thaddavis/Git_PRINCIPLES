@@ -1,0 +1,30 @@
+   364	Junio C Hamano
+   134	Jeff King
+   104	Johannes Schindelin
+    89	Stephen Boyd
+    87	Johannes Sixt
+    86	Thomas Rast
+    85	Christian Couder
+    67	Brandon Casey
+    63	René Scharfe
+    62	Avery Pennarun
+    48	Jonathan Nieder
+    48	Linus Torvalds
+    46	Jay Soffian
+    42	Eric Wong
+    41	Michael J Gruber
+    39	Markus Heidelberg
+    36	Matthieu Moy
+    36	Tay Ray Chuan
+    35	Jakub Narębski
+    35	Shawn O. Pearce
+    34	Nguyễn Thái Ngọc Duy
+    32	Giuseppe Bilotta
+    29	Felipe Contreras
+    29	Johan Herland
+    28	Björn Gustavsson
+    26	Kjetil Barvik
+    25	Clemens Buchacher
+    25	David Aguilar
+    24	Alex Riesen
+    23	Daniel Barkalow

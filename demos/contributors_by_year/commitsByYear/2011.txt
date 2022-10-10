@@ -1,0 +1,30 @@
+   430	Junio C Hamano
+   237	Jeff King
+   178	Jonathan Nieder
+   150	Ævar Arnfjörð Bjarmason
+    99	Michael Haggerty
+    83	Nguyễn Thái Ngọc Duy
+    75	Michael J Gruber
+    60	Elijah Newren
+    55	Jakub Narębski
+    54	Martin von Zweigbergk
+    41	René Scharfe
+    40	Ramkumar Ramachandra
+    38	Pete Wyckoff
+    33	Bert Wesarg
+    33	Ramsay Jones
+    32	Johannes Sixt
+    29	Thomas Rast
+    26	Brandon Casey
+    23	Jens Lehmann
+    23	Pat Thoyts
+    22	Dmitry Ivankov
+    21	Jon Seymour
+    20	Heiko Voigt
+    20	Johan Herland
+    20	Tay Ray Chuan
+    19	SZEDER Gábor
+    18	Carlos Martín Nieto
+    17	Erik Faye-Lund
+    16	David Barr
+    16	Sverre Rabbelier

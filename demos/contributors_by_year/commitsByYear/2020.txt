@@ -1,0 +1,30 @@
+   270	Jeff King
+   209	Johannes Schindelin
+   203	Elijah Newren
+   200	brian m. carlson
+   163	Junio C Hamano
+   121	Derrick Stolee
+   110	Denton Liu
+    75	René Scharfe
+    71	Taylor Blau
+    64	Jonathan Tan
+    55	Martin Ågren
+    49	Philippe Blain
+    46	Christian Couder
+    45	Felipe Contreras
+    43	Sergey Organov
+    43	Đoàn Trần Công Danh
+    42	Eric Sunshine
+    36	Jiang Xin
+    36	SZEDER Gábor
+    33	Ævar Arnfjörð Bjarmason
+    31	Matheus Tavares
+    23	Han-Wen Nienhuys
+    22	Emily Shaffer
+    20	Jacob Keller
+    19	Jonathan Nieder
+    19	Nipunn Koorapati
+    18	Alexandr Miloslavskiy
+    18	Carlo Marcelo Arenas Belón
+    18	Shourya Shukla
+    16	Patrick Steinhardt

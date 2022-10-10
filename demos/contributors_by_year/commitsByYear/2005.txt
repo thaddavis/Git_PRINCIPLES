@@ -1,0 +1,30 @@
+  1123	Junio C Hamano
+   667	Linus Torvalds
+   139	Kay Sievers
+    80	Johannes Schindelin
+    75	Paul Mackerras
+    70	Petr Baudis
+    51	Daniel Barkalow
+    48	Matthias Urlichs
+    43	Fredrik Kuivinen
+    39	Sergey Vlasov
+    38	H. Peter Anvin
+    32	Nick Hengeveld
+    29	Jon Seymour
+    27	Sven Verdoolaege
+    25	Ryan Anderson
+    22	Martin Langhoff
+    20	Pavel Roskin
+    19	Nikolai Weibull
+    18	Nicolas Pitre
+    17	Andreas Ericsson
+    17	Lukas Sandström
+    17	René Scharfe
+    14	Alex Riesen
+    14	Eric W. Biederman
+    14	Eric Wong
+    14	Josef Weidendorfer
+    13	David Greaves
+    13	Jon Loeliger
+    12	A Large Angry SCM
+    10	Chris Shoemaker

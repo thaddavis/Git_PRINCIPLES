@@ -1,0 +1,30 @@
+  1172	Junio C Hamano
+   310	Shawn O. Pearce
+   220	Jakub Narębski
+   195	Eric Wong
+   180	Johannes Schindelin
+   162	Linus Torvalds
+    95	Petr Baudis
+    74	Nicolas Pitre
+    70	Paul Mackerras
+    62	René Scharfe
+    44	Luben Tuikov
+    38	Martin Langhoff
+    35	Jonas Fonseca
+    33	Alexandre Julliard
+    32	Jeff King
+    32	Matthias Lederhofer
+    31	Dennis Stosberg
+    30	Sean Estabrooks
+    29	J. Bruce Fields
+    28	Alex Riesen
+    26	Martin Waitz
+    25	Aneesh Kumar K.V
+    25	Christian Couder
+    24	Timo Hirvonen
+    22	Ryan Anderson
+    21	Fredrik Kuivinen
+    20	Nick Hengeveld
+    19	Jon Loeliger
+    19	Robert Fitzsimons
+    18	David Rientjes
