@@ -6,10 +6,16 @@ This repo holds the code and transcripts accompanying a video deep dive into the
 This video deep dive is presented in parts...
 
 ### PART 1
+
 *Intro* - Check out `1_The_Origin_Story`
 
 ### PART 2
-*Coming Soon...*
 
+*Fundamentals* - Check out `2_Fundamentals`
+
+### PART 3
+
+Coming Soon...
 ## Sources
+
 References will be included throughout...
