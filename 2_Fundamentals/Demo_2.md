@@ -64,13 +64,13 @@ We could always use the "random" commit id to reference the state of our project
 
 So now that we've seen examples of all the object types stored in the database, let's summarize our findings...
 
-__Git stores all the SNAPSHOTS of our project in a local database__
-__This database stores all snapshots via 4 object types__
-__blobs - are how file contents are stored__
-__trees - are how folders are stored__
-__commits - are how snapshots are stored (commits are comprised of blobs and trees)__
-__tags - are human-friendly names for snapshots (aka commits)__
-__These 4 object types can be combined to rebuild the state of any project at any point in time__
+- __Git stores all the SNAPSHOTS of our project in a local database__
+- __This database stores all snapshots via 4 object types__
+- __blobs - are how file contents are stored__
+- __trees - are how folders are stored__
+- __commits - are how snapshots are stored (commits are comprised of blobs and trees)__
+- __tags - are human-friendly names for snapshots (aka commits)__
+- __These 4 object types can be combined to rebuild the state of any project at any point in time__
 
 Coming up next is the 3rd and final demo of this video where we learn how the random 38 character object filenames are generated and why their contents look so cryptic
 
