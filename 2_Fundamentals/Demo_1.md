@@ -32,10 +32,10 @@ Now that we've had an overview of the .git folder, let's look closer at the data
 
 If we look in the database we see empty folders (we see nothing). And this is because we have not yet taken a snapshot of our project. The commands I will now write may seem bizzare, but all they are doing is taking a snapshot of the project.
 
-$ git status
-$ git add -A
-$ git commit -m "Initial Snapshot"
-$ git log
+- $ git status
+- $ git add -A
+- $ git commit -m "Initial Snapshot"
+- $ git log
 
 We've taken our first snapshot and now let's look at the database again...
 
